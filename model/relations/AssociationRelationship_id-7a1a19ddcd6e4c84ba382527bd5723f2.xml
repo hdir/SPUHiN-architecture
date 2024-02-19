@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wishes"
+    id="id-7a1a19ddcd6e4c84ba382527bd5723f2">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-147c9ed1ab04448dbabb711b547e6fb4.xml#id-147c9ed1ab04448dbabb711b547e6fb4"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-22cece96f7254d079e306b4694361a17.xml#id-22cece96f7254d079e306b4694361a17"/>
+</archimate:AssociationRelationship>

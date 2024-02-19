@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The GAP will influence"
+    id="id-766a288b96c048ba989d4a7c0019015f">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-aad0c7e63e0d448aacfabd37081618e1.xml#id-aad0c7e63e0d448aacfabd37081618e1"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-22cece96f7254d079e306b4694361a17.xml#id-22cece96f7254d079e306b4694361a17"/>
+</archimate:InfluenceRelationship>
