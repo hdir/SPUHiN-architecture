@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cost Drivers will influence "
+    id="id-4c8474e3dbc849a38364ca0321eaeb0f">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-6e51935afafa42c296fbf25451a39d67.xml#id-6e51935afafa42c296fbf25451a39d67"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-1d39bf4256f04a929e41b954a91da46d.xml#id-1d39bf4256f04a929e41b954a91da46d"/>
+</archimate:InfluenceRelationship>

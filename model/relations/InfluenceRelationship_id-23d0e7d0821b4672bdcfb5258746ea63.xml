@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="The goal gives a outcome"
+    id="id-23d0e7d0821b4672bdcfb5258746ea63">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-75f00f8737e147c3b8dbf7ef523d0f10.xml#id-75f00f8737e147c3b8dbf7ef523d0f10"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-7418fbd9a01542428355ee1309f460a6.xml#id-7418fbd9a01542428355ee1309f460a6"/>
+</archimate:InfluenceRelationship>

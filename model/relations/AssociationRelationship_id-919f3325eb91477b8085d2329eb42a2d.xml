@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="To ensure capacity needed"
+    id="id-919f3325eb91477b8085d2329eb42a2d">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-62584b73cab24a749dce3c41871ec6a0.xml#id-62584b73cab24a749dce3c41871ec6a0"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-1dcdc854e63e4e8b813185e90ff3cd1d.xml#id-1dcdc854e63e4e8b813185e90ff3cd1d"/>
+</archimate:AssociationRelationship>

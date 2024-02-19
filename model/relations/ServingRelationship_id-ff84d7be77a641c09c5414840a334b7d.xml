@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assigned working group"
+    id="id-ff84d7be77a641c09c5414840a334b7d">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-506b003a8ff74d87acef25ef2bc7bb3d.xml#id-506b003a8ff74d87acef25ef2bc7bb3d"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-736ab023d27c44a5bc27d4000cd7bd64.xml#id-736ab023d27c44a5bc27d4000cd7bd64"/>
+</archimate:ServingRelationship>
