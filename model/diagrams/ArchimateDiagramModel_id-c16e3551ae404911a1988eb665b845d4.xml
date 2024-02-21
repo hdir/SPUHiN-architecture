@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tesr"
+    id="id-c16e3551ae404911a1988eb665b845d4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-26daf44187674597b535a208c05fad37">
+    <bounds
+        x="603"
+        y="407"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_id-bd411601dd644503a2b946f8a5356ae9.xml#id-bd411601dd644503a2b946f8a5356ae9"/>
+  </children>
+</archimate:ArchimateDiagramModel>
